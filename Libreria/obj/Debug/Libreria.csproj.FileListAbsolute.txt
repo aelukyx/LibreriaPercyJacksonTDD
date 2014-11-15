@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2012\Projects\Libreria\Libreria\bin\Debug\Libreria.dll
+c:\users\administrador\documents\visual studio 2012\Projects\Libreria\Libreria\bin\Debug\Libreria.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\Libreria\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\Libreria\Libreria\obj\Debug\Libreria.dll
+c:\users\administrador\documents\visual studio 2012\Projects\Libreria\Libreria\obj\Debug\Libreria.pdb

@@ -1,0 +1,9 @@
+c:\Users\administrador\documents\visual studio 2012\Projects\Libreria\LibreriaTest\bin\Debug\LibreriaTest.dll
+c:\Users\administrador\documents\visual studio 2012\Projects\Libreria\LibreriaTest\bin\Debug\LibreriaTest.pdb
+c:\Users\administrador\documents\visual studio 2012\Projects\Libreria\LibreriaTest\bin\Debug\Libreria.dll
+c:\Users\administrador\documents\visual studio 2012\Projects\Libreria\LibreriaTest\bin\Debug\nunit.framework.dll
+c:\Users\administrador\documents\visual studio 2012\Projects\Libreria\LibreriaTest\bin\Debug\Libreria.pdb
+c:\Users\administrador\documents\visual studio 2012\Projects\Libreria\LibreriaTest\bin\Debug\nunit.framework.xml
+c:\Users\administrador\documents\visual studio 2012\Projects\Libreria\LibreriaTest\obj\Debug\LibreriaTest.csprojResolveAssemblyReference.cache
+c:\Users\administrador\documents\visual studio 2012\Projects\Libreria\LibreriaTest\obj\Debug\LibreriaTest.dll
+c:\Users\administrador\documents\visual studio 2012\Projects\Libreria\LibreriaTest\obj\Debug\LibreriaTest.pdb
